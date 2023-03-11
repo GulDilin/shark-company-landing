@@ -1,12 +1,12 @@
 {
-  "src/assets/icons/logo.svg": [
-    "/assets/logo-e465bf21.js"
-  ],
   "src/pages/dev.vue": [
-    "/assets/dev-7de18f8e.js"
+    "/shark-company-landing/assets/dev-5c409b5b.js"
   ],
   "src/assets/icons/mail.svg": [
-    "/assets/mail-247a8884.js"
+    "/shark-company-landing/assets/mail-0b13c6ab.js"
+  ],
+  "src/assets/icons/logo.svg": [
+    "/shark-company-landing/assets/logo-2a309063.js"
   ],
   "\u0000vite/modulepreload-polyfill": [],
   "node_modules/@vue/shared/dist/shared.esm-bundler.js": [],
