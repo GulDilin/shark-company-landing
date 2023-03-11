@@ -13,6 +13,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Wait
+        run: |
+          echo "Wait"
+          sleep 10s
+
       - name: Echo check external run id
         run: echo "run id - ${{ inputs.external_run_id }}"
 
@@ -24,10 +29,8 @@ jobs:
           run_id: ${{ inputs.external_run_id }}
           workflow: deploy.yml
           repo: Shark-Company/sharkcompany-frontend
-          name: production-files
+          name: production-build
           path: ./dist
-          search_artifacts: true
-          check_artifacts:  true
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
