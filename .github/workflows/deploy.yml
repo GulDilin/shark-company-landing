@@ -1,6 +1,9 @@
 name: Deploy
 
-on: [workflow_dispatch]
+on:
+  workflow_dispatch:
+    inputs:
+      external_run_id
 
 jobs:
   deploy:
@@ -8,11 +11,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Echo check external run id
+        run: echo "run id - ${{ inputs.external_run_id }}"
+
       - name: Download artifact
         id: download-artifact
         uses: dawidd6/action-download-artifact@v2
         with:
           github_token: ${{ secrets.G_ACCESS_TOKEN }}
+          github_token: ${{ inputs.external_run_id }}
           workflow: deploy.yml
           branch: main
           repo: Shark-Company/sharkcompany-frontend
