@@ -3,7 +3,9 @@ name: Deploy
 on:
   workflow_dispatch:
     inputs:
-      external_run_id
+      external_run_id:
+        type: string
+        description: Run id from build workflow
 
 jobs:
   deploy:
