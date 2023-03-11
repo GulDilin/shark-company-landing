@@ -1,9 +1,9 @@
 {
-  "src/pages/dev.vue": [
-    "/assets/dev-7de18f8e.js"
-  ],
   "src/assets/icons/logo.svg": [
     "/assets/logo-e465bf21.js"
+  ],
+  "src/pages/dev.vue": [
+    "/assets/dev-7de18f8e.js"
   ],
   "src/assets/icons/mail.svg": [
     "/assets/mail-247a8884.js"
