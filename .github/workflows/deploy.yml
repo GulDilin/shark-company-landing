@@ -23,7 +23,6 @@ jobs:
           github_token: ${{ secrets.G_ACCESS_TOKEN }}
           run_id: ${{ inputs.external_run_id }}
           workflow: deploy.yml
-          branch: main
           repo: Shark-Company/sharkcompany-frontend
           name: production-files
           path: ./dist
