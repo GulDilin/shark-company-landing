@@ -1,12 +1,12 @@
 {
-  "src/assets/icons/mail.svg": [
-    "/shark-company-landing/assets/mail-115e17a6.js"
-  ],
   "src/assets/icons/logo.svg": [
-    "/shark-company-landing/assets/logo-28dbe312.js"
+    "/shark-company-landing/assets/logo-1d76d5bf.js"
   ],
   "src/pages/dev.vue": [
-    "/shark-company-landing/assets/dev-62340e9d.js"
+    "/shark-company-landing/assets/dev-1b6c999b.js"
+  ],
+  "src/assets/icons/mail.svg": [
+    "/shark-company-landing/assets/mail-62dceffb.js"
   ],
   "\u0000vite/modulepreload-polyfill": [],
   "node_modules/@vue/shared/dist/shared.esm-bundler.js": [],
@@ -56,15 +56,15 @@
   "src/config/icons.js": [],
   "src/components/SomeComponent.vue?used&vue&type=style&index=0&lang.module.css": [],
   "src/components/SomeComponent.vue": [],
+  "src/components/App/AppLinkHash.vue": [],
+  "src/components/App/AppLogo.vue": [],
+  "src/layout/LandingNav.vue?used&vue&type=style&index=0&lang.module.scss": [],
+  "src/layout/LandingNav.vue": [],
   "src/layout/helpers/useActiveBackground.js": [],
   "src/helpers/observer/useObserver.js": [],
   "src/helpers/observer/useIntersectionObserver.js": [],
   "src/components/App/AppIntersection.vue": [],
   "src/layout/BackgroundSection.vue": [],
-  "src/components/App/AppLinkHash.vue": [],
-  "src/components/App/AppLogo.vue": [],
-  "src/layout/LandingNav.vue?used&vue&type=style&index=0&lang.module.scss": [],
-  "src/layout/LandingNav.vue": [],
   "src/layout/LandingLayout.vue?used&vue&type=style&index=0&lang.module.scss": [],
   "src/layout/LandingLayout.vue": [],
   "src/pages/index.vue?used&vue&type=style&index=0&lang.module.scss": [],
