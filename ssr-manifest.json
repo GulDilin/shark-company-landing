@@ -1,12 +1,33 @@
 {
-  "src/assets/icons/logo.svg": [
-    "/shark-company-landing/assets/logo-51983c32.js"
-  ],
   "src/assets/icons/mail.svg": [
-    "/shark-company-landing/assets/mail-9f64c731.js"
+    "/shark-company-landing/assets/mail-044f3474.js"
+  ],
+  "src/assets/icons/logo.svg": [
+    "/shark-company-landing/assets/logo-cbd187d5.js"
+  ],
+  "src/pages/dev/loading-animation.vue?used&vue&type=style&index=0&lang.module.scss": [
+    "/shark-company-landing/assets/loading-animation-80d717db.js",
+    "/shark-company-landing/assets/loading-animation-c07d4af5.css"
+  ],
+  "src/pages/dev/loading-animation.vue": [
+    "/shark-company-landing/assets/loading-animation-80d717db.js",
+    "/shark-company-landing/assets/loading-animation-c07d4af5.css"
+  ],
+  "src/pages/dev/loading-animation-fullscreen.vue?vue&type=style&index=0&scoped=894dddb8&lang.css": [
+    "/shark-company-landing/assets/loading-animation-fullscreen-ac7c38d5.js",
+    "/shark-company-landing/assets/loading-animation-fullscreen-ae4fa0fd.css"
+  ],
+  "src/pages/dev/loading-animation-fullscreen.vue": [
+    "/shark-company-landing/assets/loading-animation-fullscreen-ac7c38d5.js",
+    "/shark-company-landing/assets/loading-animation-fullscreen-ae4fa0fd.css"
+  ],
+  "src/pages/dev.vue?vue&type=style&index=0&scoped=113cf9c4&lang.scss": [
+    "/shark-company-landing/assets/dev-4ee4f82c.js",
+    "/shark-company-landing/assets/dev-58f9b1e0.css"
   ],
   "src/pages/dev.vue": [
-    "/shark-company-landing/assets/dev-743b24d1.js"
+    "/shark-company-landing/assets/dev-4ee4f82c.js",
+    "/shark-company-landing/assets/dev-58f9b1e0.css"
   ],
   "\u0000vite/modulepreload-polyfill": [
     "/shark-company-landing/assets/galaxy-6a94fab2.png"
@@ -26,7 +47,28 @@
   "node_modules/vue/dist/vue.runtime.esm-bundler.js": [
     "/shark-company-landing/assets/galaxy-6a94fab2.png"
   ],
+  "\u0000commonjsHelpers.js": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "\u0000/home/runner/work/sharkcompany-frontend/sharkcompany-frontend/node_modules/lottie-web/build/player/lottie.js?commonjs-module": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/lottie-web/build/player/lottie.js": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/assets/animation/data.json": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
   "\u0000plugin-vue:export-helper": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/components/Landing/LandingLoadingAnimation.vue": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/layout/PageLoading.vue?vue&type=style&index=0&scoped=4d187a98&lang.css": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/layout/PageLoading.vue": [
     "/shark-company-landing/assets/galaxy-6a94fab2.png"
   ],
   "src/App.vue": [
@@ -87,6 +129,15 @@
     "/shark-company-landing/assets/galaxy-6a94fab2.png"
   ],
   "src/components/App/AppTypo.vue": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/assets/img/galaxy.png": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/assets/img/shark-screen.svg": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/components/Landing/LandingLogoParallax.vue": [
     "/shark-company-landing/assets/galaxy-6a94fab2.png"
   ],
   "node_modules/lodash-es/_freeGlobal.js": [
@@ -152,15 +203,6 @@
   "src/components/SomeComponent.vue": [
     "/shark-company-landing/assets/galaxy-6a94fab2.png"
   ],
-  "src/assets/img/galaxy.png": [
-    "/shark-company-landing/assets/galaxy-6a94fab2.png"
-  ],
-  "src/assets/img/shark-screen.svg": [
-    "/shark-company-landing/assets/galaxy-6a94fab2.png"
-  ],
-  "src/components/Landing/LandingLogoParallax.vue": [
-    "/shark-company-landing/assets/galaxy-6a94fab2.png"
-  ],
   "src/components/App/AppLinkHash.vue": [
     "/shark-company-landing/assets/galaxy-6a94fab2.png"
   ],
@@ -208,5 +250,16 @@
   ],
   "index.html": [
     "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "mail-044f3474.js": [],
+  "logo-cbd187d5.js": [],
+  "dev-4ee4f82c.js": [
+    "/shark-company-landing/assets/dev-58f9b1e0.css"
+  ],
+  "loading-animation-80d717db.js": [
+    "/shark-company-landing/assets/loading-animation-c07d4af5.css"
+  ],
+  "loading-animation-fullscreen-ac7c38d5.js": [
+    "/shark-company-landing/assets/loading-animation-fullscreen-ae4fa0fd.css"
   ]
 }
