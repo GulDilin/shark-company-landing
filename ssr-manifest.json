@@ -1,75 +1,212 @@
 {
   "src/assets/icons/logo.svg": [
-    "/shark-company-landing/assets/logo-1d76d5bf.js"
-  ],
-  "src/pages/dev.vue": [
-    "/shark-company-landing/assets/dev-1b6c999b.js"
+    "/shark-company-landing/assets/logo-51983c32.js"
   ],
   "src/assets/icons/mail.svg": [
-    "/shark-company-landing/assets/mail-62dceffb.js"
+    "/shark-company-landing/assets/mail-9f64c731.js"
   ],
-  "\u0000vite/modulepreload-polyfill": [],
-  "node_modules/@vue/shared/dist/shared.esm-bundler.js": [],
-  "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [],
-  "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [],
-  "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [],
-  "node_modules/vue/dist/vue.runtime.esm-bundler.js": [],
-  "\u0000plugin-vue:export-helper": [],
-  "src/App.vue": [],
-  "src/assets/style/tailwind.scss": [],
-  "node_modules/@vue/devtools-api/lib/esm/env.js": [],
-  "node_modules/@vue/devtools-api/lib/esm/const.js": [],
-  "node_modules/@vue/devtools-api/lib/esm/time.js": [],
-  "node_modules/@vue/devtools-api/lib/esm/proxy.js": [],
-  "node_modules/@vue/devtools-api/lib/esm/index.js": [],
-  "node_modules/vue-router/dist/vue-router.mjs": [],
-  "node_modules/hookable/dist/index.mjs": [],
-  "node_modules/@unhead/shared/dist/index.mjs": [],
-  "node_modules/@unhead/dom/dist/index.mjs": [],
-  "node_modules/unhead/dist/index.mjs": [],
-  "node_modules/@unhead/vue/dist/shared/vue.3c82dacb.mjs": [],
-  "node_modules/@unhead/vue/dist/index.mjs": [],
-  "node_modules/@vueuse/head/dist/index.mjs": [],
-  "node_modules/vite-ssg/dist/shared/vite-ssg.a009fbf1.mjs": [],
-  "node_modules/vite-ssg/dist/shared/vite-ssg.5912142e.mjs": [],
-  "node_modules/vite-ssg/dist/index.mjs": [],
-  "\u0000vite/preload-helper": [],
-  "src/components/App/AppTypo.vue": [],
-  "node_modules/lodash-es/_freeGlobal.js": [],
-  "node_modules/lodash-es/_root.js": [],
-  "node_modules/lodash-es/_Symbol.js": [],
-  "node_modules/lodash-es/_getRawTag.js": [],
-  "node_modules/lodash-es/_objectToString.js": [],
-  "node_modules/lodash-es/_baseGetTag.js": [],
-  "node_modules/lodash-es/isObjectLike.js": [],
-  "node_modules/lodash-es/isSymbol.js": [],
-  "node_modules/lodash-es/_trimmedEndIndex.js": [],
-  "node_modules/lodash-es/_baseTrim.js": [],
-  "node_modules/lodash-es/isObject.js": [],
-  "node_modules/lodash-es/toNumber.js": [],
-  "node_modules/lodash-es/now.js": [],
-  "node_modules/lodash-es/debounce.js": [],
-  "node_modules/lodash-es/throttle.js": [],
-  "src/components/App/AppButton.vue?used&vue&type=style&index=0&lang.module.scss": [],
-  "src/components/App/AppButton.vue": [],
-  "src/components/App/AppIcon.vue": [],
-  "src/config/icons.js": [],
-  "src/components/SomeComponent.vue?used&vue&type=style&index=0&lang.module.css": [],
-  "src/components/SomeComponent.vue": [],
-  "src/components/App/AppLinkHash.vue": [],
-  "src/components/App/AppLogo.vue": [],
-  "src/layout/LandingNav.vue?used&vue&type=style&index=0&lang.module.scss": [],
-  "src/layout/LandingNav.vue": [],
-  "src/layout/helpers/useActiveBackground.js": [],
-  "src/helpers/observer/useObserver.js": [],
-  "src/helpers/observer/useIntersectionObserver.js": [],
-  "src/components/App/AppIntersection.vue": [],
-  "src/layout/BackgroundSection.vue": [],
-  "src/layout/LandingLayout.vue?used&vue&type=style&index=0&lang.module.scss": [],
-  "src/layout/LandingLayout.vue": [],
-  "src/pages/index.vue?used&vue&type=style&index=0&lang.module.scss": [],
-  "src/pages/index.vue": [],
-  "../../../../../@vite-plugin-pages/generated-pages?id=~pages": [],
-  "src/main.js": [],
-  "index.html": []
+  "src/pages/dev.vue": [
+    "/shark-company-landing/assets/dev-743b24d1.js"
+  ],
+  "\u0000vite/modulepreload-polyfill": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/@vue/shared/dist/shared.esm-bundler.js": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/vue/dist/vue.runtime.esm-bundler.js": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "\u0000plugin-vue:export-helper": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/App.vue": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/assets/style/tailwind.scss": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/env.js": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/const.js": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/time.js": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/proxy.js": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/index.js": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/vue-router/dist/vue-router.mjs": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/hookable/dist/index.mjs": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/@unhead/shared/dist/index.mjs": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/@unhead/dom/dist/index.mjs": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/unhead/dist/index.mjs": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/@unhead/vue/dist/shared/vue.3c82dacb.mjs": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/@unhead/vue/dist/index.mjs": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/@vueuse/head/dist/index.mjs": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/vite-ssg/dist/shared/vite-ssg.a009fbf1.mjs": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/vite-ssg/dist/shared/vite-ssg.5912142e.mjs": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/vite-ssg/dist/index.mjs": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "\u0000vite/preload-helper": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/components/App/AppTypo.vue": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/lodash-es/_freeGlobal.js": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/lodash-es/_root.js": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/lodash-es/_Symbol.js": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/lodash-es/_getRawTag.js": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/lodash-es/_objectToString.js": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/lodash-es/_baseGetTag.js": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/lodash-es/isObjectLike.js": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/lodash-es/isSymbol.js": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/lodash-es/_trimmedEndIndex.js": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/lodash-es/_baseTrim.js": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/lodash-es/isObject.js": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/lodash-es/toNumber.js": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/lodash-es/now.js": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/lodash-es/debounce.js": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "node_modules/lodash-es/throttle.js": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/components/App/AppButton.vue?used&vue&type=style&index=0&lang.module.scss": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/components/App/AppButton.vue": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/components/App/AppIcon.vue": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/config/icons.js": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/components/SomeComponent.vue?used&vue&type=style&index=0&lang.module.css": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/components/SomeComponent.vue": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/assets/img/galaxy.png": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/assets/img/shark-screen.svg": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/components/Landing/LandingLogoParallax.vue": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/components/App/AppLinkHash.vue": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/components/App/AppLogo.vue": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/layout/LandingNav.vue?used&vue&type=style&index=0&lang.module.scss": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/layout/LandingNav.vue": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/layout/helpers/useActiveBackground.js": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/helpers/observer/useObserver.js": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/helpers/observer/useIntersectionObserver.js": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/components/App/AppIntersection.vue": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/layout/BackgroundSection.vue": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/layout/LandingLayout.vue?used&vue&type=style&index=0&lang.module.scss": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/layout/LandingLayout.vue": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/pages/index.vue?used&vue&type=style&index=0&lang.module.scss": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/pages/index.vue": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "../../../../../@vite-plugin-pages/generated-pages?id=~pages": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/main.js": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "index.html": [
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ]
 }

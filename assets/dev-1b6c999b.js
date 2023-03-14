@@ -1,1 +1,0 @@
-import{_ as e,o as n,c as o}from"./app-326e8a2c.js";const r={},c={class:"text-light"};function t(s,a){return n(),o("div",c,"Dev page")}const d=e(r,[["render",t],["__file","/home/runner/work/sharkcompany-frontend/sharkcompany-frontend/src/pages/dev.vue"]]);export{d as default};
