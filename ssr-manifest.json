@@ -1,30 +1,30 @@
 {
   "src/assets/img/galaxy.png": [
-    "/shark-company-landing/assets/LandingLogoParallax-44f17ee0.js",
+    "/shark-company-landing/assets/LandingLogoParallax-5a397b46.js",
     "/shark-company-landing/assets/galaxy-6a94fab2.png"
   ],
   "src/assets/img/shark-screen.svg": [
-    "/shark-company-landing/assets/LandingLogoParallax-44f17ee0.js",
+    "/shark-company-landing/assets/LandingLogoParallax-5a397b46.js",
     "/shark-company-landing/assets/galaxy-6a94fab2.png"
   ],
   "src/components/Landing/LandingLogoParallax.vue": [
-    "/shark-company-landing/assets/LandingLogoParallax-44f17ee0.js",
+    "/shark-company-landing/assets/LandingLogoParallax-5a397b46.js",
     "/shark-company-landing/assets/galaxy-6a94fab2.png"
   ],
-  "src/helpers/observer/useResizeObserver.js": [
-    "/shark-company-landing/assets/LandingLoadingAnimation-e46e582c.js"
-  ],
-  "src/components/App/AppCoverContainer.vue": [
-    "/shark-company-landing/assets/LandingLoadingAnimation-e46e582c.js"
-  ],
-  "src/components/Landing/LandingLoadingAnimation.vue": [
-    "/shark-company-landing/assets/LandingLoadingAnimation-e46e582c.js"
-  ],
   "src/components/App/AppIcon.vue": [
-    "/shark-company-landing/assets/icons-9b80b647.js"
+    "/shark-company-landing/assets/icons-99dddebd.js"
   ],
   "src/config/icons.js": [
-    "/shark-company-landing/assets/icons-9b80b647.js"
+    "/shark-company-landing/assets/icons-99dddebd.js"
+  ],
+  "src/helpers/observer/useResizeObserver.js": [
+    "/shark-company-landing/assets/LandingLoadingAnimation-c5b6c69c.js"
+  ],
+  "src/components/App/AppCoverContainer.vue": [
+    "/shark-company-landing/assets/LandingLoadingAnimation-c5b6c69c.js"
+  ],
+  "src/components/Landing/LandingLoadingAnimation.vue": [
+    "/shark-company-landing/assets/LandingLoadingAnimation-c5b6c69c.js"
   ],
   "src/assets/animation/data.json": [
     "/shark-company-landing/assets/data-20416f23.js"
@@ -32,244 +32,67 @@
   "src/assets/animation/wave.json": [
     "/shark-company-landing/assets/wave-547f0383.js"
   ],
-  "src/assets/icons/logo.svg": [
-    "/shark-company-landing/assets/logo-8e18f0cc.js"
+  "src/assets/icons/mail.svg": [
+    "/shark-company-landing/assets/mail-625dbcc1.js"
   ],
-  "src/layout/PageLoading.vue?vue&type=style&index=0&scoped=4d187a98&lang.css": [
-    "/shark-company-landing/assets/PageLoading-e1a35bad.js",
-    "/shark-company-landing/assets/PageLoading-6b29b319.css"
+  "src/components/SomeComponent.vue?used&vue&type=style&index=0&lang.module.css": [
+    "/shark-company-landing/assets/SomeComponent-d90b670d.js",
+    "/shark-company-landing/assets/SomeComponent-84ec7968.css"
   ],
-  "src/layout/PageLoading.vue": [
-    "/shark-company-landing/assets/PageLoading-e1a35bad.js",
-    "/shark-company-landing/assets/PageLoading-6b29b319.css"
+  "src/components/SomeComponent.vue": [
+    "/shark-company-landing/assets/SomeComponent-d90b670d.js",
+    "/shark-company-landing/assets/SomeComponent-84ec7968.css"
   ],
   "src/pages/dev.vue?vue&type=style&index=0&scoped=113cf9c4&lang.scss": [
-    "/shark-company-landing/assets/dev-c29608a1.js",
+    "/shark-company-landing/assets/dev-32ce45dd.js",
     "/shark-company-landing/assets/dev-58f9b1e0.css"
   ],
   "src/pages/dev.vue": [
-    "/shark-company-landing/assets/dev-c29608a1.js",
+    "/shark-company-landing/assets/dev-32ce45dd.js",
     "/shark-company-landing/assets/dev-58f9b1e0.css"
   ],
   "src/pages/dev/loading-animation.vue?used&vue&type=style&index=0&lang.module.scss": [
-    "/shark-company-landing/assets/loading-animation-71875bd9.js",
+    "/shark-company-landing/assets/loading-animation-bc113bae.js",
     "/shark-company-landing/assets/loading-animation-c07d4af5.css"
   ],
   "src/pages/dev/loading-animation.vue": [
-    "/shark-company-landing/assets/loading-animation-71875bd9.js",
+    "/shark-company-landing/assets/loading-animation-bc113bae.js",
     "/shark-company-landing/assets/loading-animation-c07d4af5.css"
   ],
-  "src/pages/dev/loading-animation-fullscreen.vue?vue&type=style&index=0&scoped=894dddb8&lang.css": [
-    "/shark-company-landing/assets/loading-animation-fullscreen-af49f814.js",
-    "/shark-company-landing/assets/loading-animation-fullscreen-ae4fa0fd.css"
-  ],
-  "src/pages/dev/loading-animation-fullscreen.vue": [
-    "/shark-company-landing/assets/loading-animation-fullscreen-af49f814.js",
-    "/shark-company-landing/assets/loading-animation-fullscreen-ae4fa0fd.css"
-  ],
-  "node_modules/lodash-es/throttle.js": [
-    "/shark-company-landing/assets/SomeComponent-9a5d1c29.js",
-    "/shark-company-landing/assets/SomeComponent-cbc0cc9d.css"
-  ],
-  "src/components/App/AppButton.vue?used&vue&type=style&index=0&lang.module.scss": [
-    "/shark-company-landing/assets/SomeComponent-9a5d1c29.js",
-    "/shark-company-landing/assets/SomeComponent-cbc0cc9d.css"
-  ],
-  "src/components/App/AppButton.vue": [
-    "/shark-company-landing/assets/SomeComponent-9a5d1c29.js",
-    "/shark-company-landing/assets/SomeComponent-cbc0cc9d.css"
-  ],
-  "src/components/SomeComponent.vue?used&vue&type=style&index=0&lang.module.css": [
-    "/shark-company-landing/assets/SomeComponent-9a5d1c29.js",
-    "/shark-company-landing/assets/SomeComponent-cbc0cc9d.css"
-  ],
-  "src/components/SomeComponent.vue": [
-    "/shark-company-landing/assets/SomeComponent-9a5d1c29.js",
-    "/shark-company-landing/assets/SomeComponent-cbc0cc9d.css"
-  ],
   "src/components/App/AppLinkHash.vue": [
-    "/shark-company-landing/assets/LandingNav-747ce351.js",
+    "/shark-company-landing/assets/LandingNav-4c5bbc36.js",
     "/shark-company-landing/assets/LandingNav-e5fcc2dd.css"
   ],
   "src/components/App/AppLogo.vue": [
-    "/shark-company-landing/assets/LandingNav-747ce351.js",
+    "/shark-company-landing/assets/LandingNav-4c5bbc36.js",
     "/shark-company-landing/assets/LandingNav-e5fcc2dd.css"
   ],
   "src/layout/LandingNav.vue?used&vue&type=style&index=0&lang.module.scss": [
-    "/shark-company-landing/assets/LandingNav-747ce351.js",
+    "/shark-company-landing/assets/LandingNav-4c5bbc36.js",
     "/shark-company-landing/assets/LandingNav-e5fcc2dd.css"
   ],
   "src/layout/LandingNav.vue": [
-    "/shark-company-landing/assets/LandingNav-747ce351.js",
+    "/shark-company-landing/assets/LandingNav-4c5bbc36.js",
     "/shark-company-landing/assets/LandingNav-e5fcc2dd.css"
   ],
-  "src/assets/icons/mail.svg": [
-    "/shark-company-landing/assets/mail-84c9b914.js"
+  "src/assets/icons/logo.svg": [
+    "/shark-company-landing/assets/logo-558a5118.js"
   ],
-  "\u0000vite/modulepreload-polyfill": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+  "src/layout/PageLoading.vue?vue&type=style&index=0&scoped=4d187a98&lang.css": [
+    "/shark-company-landing/assets/PageLoading-47845173.js",
+    "/shark-company-landing/assets/PageLoading-6b29b319.css"
   ],
-  "\u0000vite/preload-helper": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+  "src/layout/PageLoading.vue": [
+    "/shark-company-landing/assets/PageLoading-47845173.js",
+    "/shark-company-landing/assets/PageLoading-6b29b319.css"
   ],
-  "node_modules/@vue/shared/dist/shared.esm-bundler.js": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+  "src/pages/dev/loading-animation-fullscreen.vue?vue&type=style&index=0&scoped=894dddb8&lang.css": [
+    "/shark-company-landing/assets/loading-animation-fullscreen-5af8db19.js",
+    "/shark-company-landing/assets/loading-animation-fullscreen-ae4fa0fd.css"
   ],
-  "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/vue/dist/vue.runtime.esm-bundler.js": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "\u0000plugin-vue:export-helper": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/App.vue": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/assets/style/tailwind.scss": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/@vue/devtools-api/lib/esm/env.js": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/@vue/devtools-api/lib/esm/const.js": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/@vue/devtools-api/lib/esm/time.js": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/@vue/devtools-api/lib/esm/proxy.js": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/@vue/devtools-api/lib/esm/index.js": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/vue-router/dist/vue-router.mjs": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/hookable/dist/index.mjs": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/@unhead/shared/dist/index.mjs": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/@unhead/dom/dist/index.mjs": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/unhead/dist/index.mjs": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/@unhead/vue/dist/shared/vue.3c82dacb.mjs": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/@unhead/vue/dist/index.mjs": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/@vueuse/head/dist/index.mjs": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/vite-ssg/dist/shared/vite-ssg.a009fbf1.mjs": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/vite-ssg/dist/shared/vite-ssg.5912142e.mjs": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/vite-ssg/dist/index.mjs": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/components/App/AppTypo.vue": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/assets/video/landing.mp4": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/helpers/useLoadingState.js": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/lodash-es/_freeGlobal.js": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/lodash-es/_root.js": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/lodash-es/_Symbol.js": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/lodash-es/_getRawTag.js": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/lodash-es/_objectToString.js": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/lodash-es/_baseGetTag.js": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/lodash-es/isObjectLike.js": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/lodash-es/isSymbol.js": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/lodash-es/_trimmedEndIndex.js": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/lodash-es/_baseTrim.js": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/lodash-es/isObject.js": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/lodash-es/toNumber.js": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/lodash-es/now.js": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/lodash-es/debounce.js": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/layout/helpers/useActiveBackground.js": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/helpers/observer/useObserver.js": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/helpers/observer/useIntersectionObserver.js": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/components/App/AppIntersection.vue": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/layout/BackgroundSection.vue": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/layout/LandingLayout.vue?used&vue&type=style&index=0&lang.module.scss": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/layout/LandingLayout.vue": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/pages/index.vue?used&vue&type=style&index=0&lang.module.scss": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/pages/index.vue": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "../../../../../@vite-plugin-pages/generated-pages?id=~pages": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/main.js": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "index.html": [
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+  "src/pages/dev/loading-animation-fullscreen.vue": [
+    "/shark-company-landing/assets/loading-animation-fullscreen-5af8db19.js",
+    "/shark-company-landing/assets/loading-animation-fullscreen-ae4fa0fd.css"
   ],
   "\u0000commonjsHelpers.js": [
     "/shark-company-landing/assets/lottie-05218004.js"
@@ -279,5 +102,273 @@
   ],
   "node_modules/lottie-web/build/player/lottie.js": [
     "/shark-company-landing/assets/lottie-05218004.js"
+  ],
+  "\u0000vite/modulepreload-polyfill": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "\u0000vite/preload-helper": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/@vue/shared/dist/shared.esm-bundler.js": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/vue/dist/vue.runtime.esm-bundler.js": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "\u0000plugin-vue:export-helper": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "src/App.vue": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "src/assets/style/tailwind.scss": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/env.js": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/const.js": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/time.js": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/proxy.js": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/index.js": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/vue-router/dist/vue-router.mjs": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/hookable/dist/index.mjs": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/@unhead/shared/dist/index.mjs": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/@unhead/dom/dist/index.mjs": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/unhead/dist/index.mjs": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/@unhead/vue/dist/shared/vue.3c82dacb.mjs": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/@unhead/vue/dist/index.mjs": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/@vueuse/head/dist/index.mjs": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/vite-ssg/dist/shared/vite-ssg.a009fbf1.mjs": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/vite-ssg/dist/shared/vite-ssg.5912142e.mjs": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/vite-ssg/dist/index.mjs": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "src/components/App/AppTypo.vue": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "src/components/App/AppHorizontalScrollContainer.vue?vue&type=style&index=0&scoped=9bd6a32d&lang.css": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "src/components/App/AppHorizontalScrollContainer.vue": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "src/components/App/AppList.vue?vue&type=style&index=0&scoped=a9d95587&lang.css": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "src/components/App/AppList.vue": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/lodash-es/_freeGlobal.js": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/lodash-es/_root.js": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/lodash-es/_Symbol.js": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/lodash-es/_getRawTag.js": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/lodash-es/_objectToString.js": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/lodash-es/_baseGetTag.js": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/lodash-es/isObjectLike.js": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/lodash-es/isSymbol.js": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/lodash-es/_trimmedEndIndex.js": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/lodash-es/_baseTrim.js": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/lodash-es/isObject.js": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/lodash-es/toNumber.js": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/lodash-es/now.js": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/lodash-es/debounce.js": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "node_modules/lodash-es/throttle.js": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "src/components/App/AppButton.vue?used&vue&type=style&index=0&lang.module.scss": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "src/components/App/AppButton.vue": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "src/components/Landing/LandingStudyCard.vue?vue&type=style&index=0&scoped=606c65da&lang.css": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "src/components/Landing/LandingStudyCard.vue": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "src/assets/img/study-card-background.png": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "src/components/Landing/LandingStudyCardWrapper.vue?vue&type=style&index=0&scoped=985e49eb&lang.css": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "src/components/Landing/LandingStudyCardWrapper.vue": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "src/assets/video/landing.mp4": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "src/helpers/useLoadingState.js": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "src/layout/helpers/useActiveBackground.js": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "src/helpers/observer/useObserver.js": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "src/helpers/observer/useIntersectionObserver.js": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "src/components/App/AppIntersection.vue": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "src/layout/BackgroundSection.vue": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "src/layout/LandingLayout.vue?used&vue&type=style&index=0&lang.module.scss": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "src/layout/LandingLayout.vue": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "src/pages/index.vue?used&vue&type=style&index=0&lang.module.scss": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "src/pages/index.vue": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "../../../../../@vite-plugin-pages/generated-pages?id=~pages": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "src/main.js": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
+  ],
+  "index.html": [
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4"
   ]
 }
