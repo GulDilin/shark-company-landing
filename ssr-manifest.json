@@ -1,87 +1,102 @@
 {
-  "src/assets/icons/logo.svg": [
-    "/shark-company-landing/assets/logo-c68251c7.js"
+  "src/helpers/observer/useResizeObserver.js": [
+    "/shark-company-landing/assets/LandingLoadingAnimation-d6997275.js"
   ],
-  "src/assets/icons/cross.svg": [
-    "/shark-company-landing/assets/cross-49d12dc5.js"
+  "src/components/App/AppCoverContainer.vue": [
+    "/shark-company-landing/assets/LandingLoadingAnimation-d6997275.js"
   ],
-  "src/assets/icons/mail.svg": [
-    "/shark-company-landing/assets/mail-62a2a414.js"
+  "src/components/Landing/LandingLoadingAnimation.vue": [
+    "/shark-company-landing/assets/LandingLoadingAnimation-d6997275.js"
   ],
   "src/assets/img/galaxy.png": [
-    "/shark-company-landing/assets/LandingLogoParallax-3524d7c3.js",
+    "/shark-company-landing/assets/LandingLogoParallax-5343ca3b.js",
     "/shark-company-landing/assets/galaxy-6a94fab2.png"
   ],
   "src/assets/img/shark-screen.svg": [
-    "/shark-company-landing/assets/LandingLogoParallax-3524d7c3.js",
+    "/shark-company-landing/assets/LandingLogoParallax-5343ca3b.js",
     "/shark-company-landing/assets/galaxy-6a94fab2.png"
   ],
   "src/components/Landing/LandingLogoParallax.vue": [
-    "/shark-company-landing/assets/LandingLogoParallax-3524d7c3.js",
+    "/shark-company-landing/assets/LandingLogoParallax-5343ca3b.js",
     "/shark-company-landing/assets/galaxy-6a94fab2.png"
   ],
-  "src/helpers/observer/useResizeObserver.js": [
-    "/shark-company-landing/assets/LandingLoadingAnimation-be3e6a9b.js"
+  "src/assets/icons/mail.svg": [
+    "/shark-company-landing/assets/mail-ac1e24b3.js"
   ],
-  "src/components/App/AppCoverContainer.vue": [
-    "/shark-company-landing/assets/LandingLoadingAnimation-be3e6a9b.js"
+  "src/assets/icons/logo.svg": [
+    "/shark-company-landing/assets/logo-190f3409.js"
   ],
-  "src/components/Landing/LandingLoadingAnimation.vue": [
-    "/shark-company-landing/assets/LandingLoadingAnimation-be3e6a9b.js"
+  "src/assets/icons/play.svg": [
+    "/shark-company-landing/assets/play-3f97ec87.js"
+  ],
+  "src/assets/icons/chevron-down.svg": [
+    "/shark-company-landing/assets/chevron-down-c816c3f7.js"
+  ],
+  "src/assets/icons/cross.svg": [
+    "/shark-company-landing/assets/cross-b85165b0.js"
   ],
   "src/assets/animation/data.json": [
     "/shark-company-landing/assets/data-20416f23.js"
   ],
-  "src/components/App/AppLinkHash.vue": [
-    "/shark-company-landing/assets/LandingNav-40b6fdaa.js",
-    "/shark-company-landing/assets/LandingNav-e5fcc2dd.css"
-  ],
-  "src/components/App/AppLogo.vue": [
-    "/shark-company-landing/assets/LandingNav-40b6fdaa.js",
-    "/shark-company-landing/assets/LandingNav-e5fcc2dd.css"
-  ],
-  "src/layout/LandingNav.vue?used&vue&type=style&index=0&lang.module.scss": [
-    "/shark-company-landing/assets/LandingNav-40b6fdaa.js",
-    "/shark-company-landing/assets/LandingNav-e5fcc2dd.css"
-  ],
-  "src/layout/LandingNav.vue": [
-    "/shark-company-landing/assets/LandingNav-40b6fdaa.js",
-    "/shark-company-landing/assets/LandingNav-e5fcc2dd.css"
-  ],
-  "src/layout/PageLoading.vue?vue&type=style&index=0&scoped=4d187a98&lang.css": [
-    "/shark-company-landing/assets/PageLoading-e4fc3bf6.js",
-    "/shark-company-landing/assets/PageLoading-6b29b319.css"
-  ],
-  "src/layout/PageLoading.vue": [
-    "/shark-company-landing/assets/PageLoading-e4fc3bf6.js",
-    "/shark-company-landing/assets/PageLoading-6b29b319.css"
-  ],
-  "src/pages/dev/loading-animation-fullscreen.vue?vue&type=style&index=0&scoped=894dddb8&lang.css": [
-    "/shark-company-landing/assets/loading-animation-fullscreen-52f4f6c0.js",
-    "/shark-company-landing/assets/loading-animation-fullscreen-ae4fa0fd.css"
-  ],
-  "src/pages/dev/loading-animation-fullscreen.vue": [
-    "/shark-company-landing/assets/loading-animation-fullscreen-52f4f6c0.js",
-    "/shark-company-landing/assets/loading-animation-fullscreen-ae4fa0fd.css"
-  ],
   "src/assets/animation/wave.json": [
     "/shark-company-landing/assets/wave-547f0383.js"
   ],
-  "src/pages/dev/loading-animation.vue?used&vue&type=style&index=0&lang.module.scss": [
-    "/shark-company-landing/assets/loading-animation-d43b785f.js",
-    "/shark-company-landing/assets/loading-animation-c07d4af5.css"
-  ],
-  "src/pages/dev/loading-animation.vue": [
-    "/shark-company-landing/assets/loading-animation-d43b785f.js",
-    "/shark-company-landing/assets/loading-animation-c07d4af5.css"
-  ],
   "src/pages/dev.vue?vue&type=style&index=0&scoped=113cf9c4&lang.scss": [
-    "/shark-company-landing/assets/dev-c2a3b038.js",
+    "/shark-company-landing/assets/dev-38540d20.js",
     "/shark-company-landing/assets/dev-58f9b1e0.css"
   ],
   "src/pages/dev.vue": [
-    "/shark-company-landing/assets/dev-c2a3b038.js",
+    "/shark-company-landing/assets/dev-38540d20.js",
     "/shark-company-landing/assets/dev-58f9b1e0.css"
+  ],
+  "src/pages/dev/loading-animation.vue?used&vue&type=style&index=0&lang.module.scss": [
+    "/shark-company-landing/assets/loading-animation-5d1b6080.js",
+    "/shark-company-landing/assets/loading-animation-c07d4af5.css"
+  ],
+  "src/pages/dev/loading-animation.vue": [
+    "/shark-company-landing/assets/loading-animation-5d1b6080.js",
+    "/shark-company-landing/assets/loading-animation-c07d4af5.css"
+  ],
+  "src/components/App/AppLinkHash.vue": [
+    "/shark-company-landing/assets/LandingNav-b929a17e.js",
+    "/shark-company-landing/assets/LandingNav-e5fcc2dd.css"
+  ],
+  "src/components/App/AppLogo.vue": [
+    "/shark-company-landing/assets/LandingNav-b929a17e.js",
+    "/shark-company-landing/assets/LandingNav-e5fcc2dd.css"
+  ],
+  "src/layout/LandingNav.vue?used&vue&type=style&index=0&lang.module.scss": [
+    "/shark-company-landing/assets/LandingNav-b929a17e.js",
+    "/shark-company-landing/assets/LandingNav-e5fcc2dd.css"
+  ],
+  "src/layout/LandingNav.vue": [
+    "/shark-company-landing/assets/LandingNav-b929a17e.js",
+    "/shark-company-landing/assets/LandingNav-e5fcc2dd.css"
+  ],
+  "src/layout/PageLoading.vue?vue&type=style&index=0&scoped=4d187a98&lang.css": [
+    "/shark-company-landing/assets/PageLoading-e7972c06.js",
+    "/shark-company-landing/assets/PageLoading-6b29b319.css"
+  ],
+  "src/layout/PageLoading.vue": [
+    "/shark-company-landing/assets/PageLoading-e7972c06.js",
+    "/shark-company-landing/assets/PageLoading-6b29b319.css"
+  ],
+  "src/pages/dev/loading-animation-fullscreen.vue?vue&type=style&index=0&scoped=894dddb8&lang.css": [
+    "/shark-company-landing/assets/loading-animation-fullscreen-b6e1f5b4.js",
+    "/shark-company-landing/assets/loading-animation-fullscreen-ae4fa0fd.css"
+  ],
+  "src/pages/dev/loading-animation-fullscreen.vue": [
+    "/shark-company-landing/assets/loading-animation-fullscreen-b6e1f5b4.js",
+    "/shark-company-landing/assets/loading-animation-fullscreen-ae4fa0fd.css"
+  ],
+  "\u0000commonjsHelpers.js": [
+    "/shark-company-landing/assets/lottie-05218004.js"
+  ],
+  "\u0000/home/runner/work/sharkcompany-frontend/sharkcompany-frontend/node_modules/lottie-web/build/player/lottie.js?commonjs-module": [
+    "/shark-company-landing/assets/lottie-05218004.js"
+  ],
+  "node_modules/lottie-web/build/player/lottie.js": [
+    "/shark-company-landing/assets/lottie-05218004.js"
   ],
   "\u0000vite/modulepreload-polyfill": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -95,7 +110,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "\u0000vite/preload-helper": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -109,7 +125,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "node_modules/@vue/shared/dist/shared.esm-bundler.js": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -123,7 +140,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -137,7 +155,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -151,7 +170,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -165,7 +185,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "node_modules/vue/dist/vue.runtime.esm-bundler.js": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -179,7 +200,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "\u0000plugin-vue:export-helper": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -193,7 +215,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "src/App.vue": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -207,7 +230,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "src/assets/style/tailwind.scss": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -221,7 +245,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "node_modules/@vue/devtools-api/lib/esm/env.js": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -235,7 +260,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "node_modules/@vue/devtools-api/lib/esm/const.js": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -249,7 +275,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "node_modules/@vue/devtools-api/lib/esm/time.js": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -263,7 +290,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "node_modules/@vue/devtools-api/lib/esm/proxy.js": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -277,7 +305,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "node_modules/@vue/devtools-api/lib/esm/index.js": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -291,7 +320,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "node_modules/vue-router/dist/vue-router.mjs": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -305,7 +335,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "node_modules/hookable/dist/index.mjs": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -319,7 +350,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "node_modules/@unhead/shared/dist/index.mjs": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -333,7 +365,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "node_modules/@unhead/dom/dist/index.mjs": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -347,7 +380,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "node_modules/unhead/dist/index.mjs": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -361,7 +395,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "node_modules/@unhead/vue/dist/shared/vue.3c82dacb.mjs": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -375,7 +410,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "node_modules/@unhead/vue/dist/index.mjs": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -389,7 +425,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "node_modules/@vueuse/head/dist/index.mjs": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -403,7 +440,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "node_modules/vite-ssg/dist/shared/vite-ssg.a009fbf1.mjs": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -417,7 +455,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "node_modules/vite-ssg/dist/shared/vite-ssg.5912142e.mjs": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -431,7 +470,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "node_modules/vite-ssg/dist/index.mjs": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -445,7 +485,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "src/components/App/AppTypo.vue": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -459,9 +500,10 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
-  "src/components/Landing/LandingSectionContainer.vue?vue&type=style&index=0&scoped=2f60d58e&lang.css": [
+  "node_modules/gsap/gsap-core.js": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
@@ -473,9 +515,10 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
-  "src/components/Landing/LandingSectionContainer.vue": [
+  "node_modules/gsap/CSSPlugin.js": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
@@ -487,9 +530,10 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
-  "src/components/App/AppList.vue?vue&type=style&index=0&scoped=a9d95587&lang.css": [
+  "node_modules/gsap/index.js": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
@@ -501,9 +545,10 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
-  "src/components/App/AppList.vue": [
+  "src/components/App/AppAnimatedInteger.vue": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
@@ -515,819 +560,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/lodash-es/_freeGlobal.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/lodash-es/_root.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/lodash-es/_Symbol.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/lodash-es/_getRawTag.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/lodash-es/_objectToString.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/lodash-es/_baseGetTag.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/lodash-es/isObjectLike.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/lodash-es/isSymbol.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/lodash-es/_trimmedEndIndex.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/lodash-es/_baseTrim.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/lodash-es/isObject.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/lodash-es/toNumber.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/lodash-es/now.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/lodash-es/debounce.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "node_modules/lodash-es/throttle.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/components/App/AppButton.vue?used&vue&type=style&index=0&lang.module.scss": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/components/App/AppButton.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/components/App/AppIcon.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/assets/img/services-expand-2.png": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/config/icons.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/components/Landing/LandingServiceCard.vue?vue&type=style&index=0&scoped=af03913b&lang.css": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/components/Landing/LandingServiceCard.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/assets/img/services-1.png": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/assets/img/services-2.png": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/assets/img/services-expand-1.png": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/components/Landing/LandingServiceCardWrapper.vue?vue&type=style&index=0&scoped=6f00a631&lang.css": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/components/Landing/LandingServiceCardWrapper.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/components/App/AppHorizontalScrollContainer.vue?vue&type=style&index=0&scoped=9bd6a32d&lang.css": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/components/App/AppHorizontalScrollContainer.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/components/Landing/LandingStudyCard.vue?vue&type=style&index=0&scoped=606c65da&lang.css": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/components/Landing/LandingStudyCard.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/assets/img/cases-1.jpg": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/assets/img/cases-2.jpg": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/assets/img/cases-3.jpg": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/assets/img/cases-4.jpg": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/assets/img/cases-5.jpg": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/assets/img/study-card-background.png": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/components/Landing/LandingStudyCardWrapper.vue?vue&type=style&index=0&scoped=985e49eb&lang.css": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/components/Landing/LandingStudyCardWrapper.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/components/Landing/LandingTechnologyCard.vue?vue&type=style&index=0&scoped=5245abda&lang.css": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/components/Landing/LandingTechnologyCard.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/assets/icons/technologies/android.png": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/assets/icons/technologies/fastapi.png": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/assets/icons/technologies/flutter.png": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/assets/icons/technologies/ios.png": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/assets/icons/technologies/java.png": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/assets/icons/technologies/nextjs.png": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/assets/icons/technologies/nuxt.png": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/assets/icons/technologies/python.png": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/assets/icons/technologies/react.png": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/assets/icons/technologies/spring.png": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/assets/icons/technologies/vue.png": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/assets/icons/technologies/wearos.png": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/components/Landing/LandingTechnologiesWrapper.vue?vue&type=style&index=0&scoped=ddfa7e3f&lang.css": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/components/Landing/LandingTechnologiesWrapper.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/assets/video/landing.mp4": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/helpers/useLoadingState.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "src/layout/helpers/useActiveBackground.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "src/helpers/observer/useObserver.js": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -1341,7 +575,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "src/helpers/observer/useIntersectionObserver.js": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -1355,7 +590,1043 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/components/Landing/LandingAboutUsWrapper.vue?vue&type=style&index=0&scoped=c4518795&lang.css": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/components/Landing/LandingAboutUsWrapper.vue": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/components/Landing/LandingSectionContainer.vue?vue&type=style&index=0&scoped=2f60d58e&lang.css": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/components/Landing/LandingSectionContainer.vue": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/components/App/AppList.vue?vue&type=style&index=0&scoped=a9d95587&lang.css": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/components/App/AppList.vue": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "node_modules/lodash-es/_freeGlobal.js": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "node_modules/lodash-es/_root.js": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "node_modules/lodash-es/_Symbol.js": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "node_modules/lodash-es/_getRawTag.js": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "node_modules/lodash-es/_objectToString.js": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "node_modules/lodash-es/_baseGetTag.js": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "node_modules/lodash-es/isObjectLike.js": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "node_modules/lodash-es/isSymbol.js": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "node_modules/lodash-es/_trimmedEndIndex.js": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "node_modules/lodash-es/_baseTrim.js": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "node_modules/lodash-es/isObject.js": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "node_modules/lodash-es/toNumber.js": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "node_modules/lodash-es/now.js": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "node_modules/lodash-es/debounce.js": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "node_modules/lodash-es/throttle.js": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/components/App/AppButton.vue?used&vue&type=style&index=0&lang.module.scss": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/components/App/AppButton.vue": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/components/App/AppIcon.vue": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/assets/img/services-expand-2.png": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/config/icons.js": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/components/Landing/LandingServiceCard.vue?vue&type=style&index=0&scoped=af03913b&lang.css": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/components/Landing/LandingServiceCard.vue": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/assets/img/services-1.png": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/assets/img/services-2.png": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/assets/img/services-expand-1.png": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/components/Landing/LandingServiceCardWrapper.vue?vue&type=style&index=0&scoped=6f00a631&lang.css": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/components/Landing/LandingServiceCardWrapper.vue": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/components/App/AppHorizontalScrollContainer.vue?vue&type=style&index=0&scoped=9bd6a32d&lang.css": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/components/App/AppHorizontalScrollContainer.vue": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/components/Landing/LandingStudyCard.vue?vue&type=style&index=0&scoped=606c65da&lang.css": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/components/Landing/LandingStudyCard.vue": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/assets/img/cases-1.jpg": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/assets/img/cases-2.jpg": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/assets/img/cases-3.jpg": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/assets/img/cases-4.jpg": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/assets/img/cases-5.jpg": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/assets/img/study-card-background.png": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/components/Landing/LandingStudyCardWrapper.vue?vue&type=style&index=0&scoped=985e49eb&lang.css": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/components/Landing/LandingStudyCardWrapper.vue": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/components/Landing/LandingTechnologyCard.vue?vue&type=style&index=0&scoped=5245abda&lang.css": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/components/Landing/LandingTechnologyCard.vue": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/assets/icons/technologies/android.png": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/assets/icons/technologies/fastapi.png": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/assets/icons/technologies/flutter.png": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/assets/icons/technologies/ios.png": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/assets/icons/technologies/java.png": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/assets/icons/technologies/nextjs.png": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/assets/icons/technologies/nuxt.png": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/assets/icons/technologies/python.png": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/assets/icons/technologies/react.png": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/assets/icons/technologies/spring.png": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/assets/icons/technologies/vue.png": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/assets/icons/technologies/wearos.png": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/components/Landing/LandingTechnologiesWrapper.vue?vue&type=style&index=0&scoped=ddfa7e3f&lang.css": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/components/Landing/LandingTechnologiesWrapper.vue": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/components/App/AppIconedButton.vue?used&vue&type=style&index=0&lang.module.scss": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/components/App/AppIconedButton.vue": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/assets/video/landing.mp4": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/components/Landing/LandingVideo.vue?used&vue&type=style&index=0&lang.module.scss": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/components/Landing/LandingVideo.vue": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/assets/img/about-us-background.png": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/helpers/useLoadingState.js": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
+  ],
+  "src/layout/helpers/useActiveBackground.js": [
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/python-6ffb7510.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "src/components/App/AppIntersection.vue": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -1369,7 +1640,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "src/layout/BackgroundSection.vue": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -1383,7 +1655,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "src/layout/LandingLayout.vue?used&vue&type=style&index=0&lang.module.scss": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -1397,7 +1670,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "src/layout/LandingLayout.vue": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -1411,7 +1685,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "src/pages/index.vue?used&vue&type=style&index=0&lang.module.scss": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -1425,7 +1700,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "src/pages/index.vue": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -1439,7 +1715,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "../../../../../@vite-plugin-pages/generated-pages?id=~pages": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -1453,7 +1730,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "src/main.js": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -1467,7 +1745,8 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ],
   "index.html": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
@@ -1481,15 +1760,7 @@
     "/shark-company-landing/assets/cases-5-845502b0.jpg",
     "/shark-company-landing/assets/study-card-background-44ded25d.png",
     "/shark-company-landing/assets/python-6ffb7510.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4"
-  ],
-  "\u0000commonjsHelpers.js": [
-    "/shark-company-landing/assets/lottie-05218004.js"
-  ],
-  "\u0000/home/runner/work/sharkcompany-frontend/sharkcompany-frontend/node_modules/lottie-web/build/player/lottie.js?commonjs-module": [
-    "/shark-company-landing/assets/lottie-05218004.js"
-  ],
-  "node_modules/lottie-web/build/player/lottie.js": [
-    "/shark-company-landing/assets/lottie-05218004.js"
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-1881f3d3.png"
   ]
 }
