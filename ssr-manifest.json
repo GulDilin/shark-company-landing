@@ -1,155 +1,155 @@
 {
-  "src/assets/icons/social-facebook.svg": [
-    "/shark-company-landing/assets/social-facebook-f4d247e8.js"
-  ],
-  "src/assets/icons/arrow-alt-up.svg": [
-    "/shark-company-landing/assets/arrow-alt-up-0a0bf449.js"
-  ],
-  "src/assets/icons/arrow-alt-right.svg": [
-    "/shark-company-landing/assets/arrow-alt-right-058cefcb.js"
-  ],
-  "src/assets/icons/logo.svg": [
-    "/shark-company-landing/assets/logo-67014957.js"
-  ],
-  "src/assets/icons/cross.svg": [
-    "/shark-company-landing/assets/cross-8a943d22.js"
-  ],
-  "src/assets/icons/arrow-alt-left.svg": [
-    "/shark-company-landing/assets/arrow-alt-left-0649d3ef.js"
-  ],
-  "src/components/App/AppCoverContainer.vue": [
-    "/shark-company-landing/assets/LandingLoadingAnimation-eae5b94c.js"
-  ],
-  "src/components/Landing/LandingLoadingAnimation.vue": [
-    "/shark-company-landing/assets/LandingLoadingAnimation-eae5b94c.js"
-  ],
-  "src/assets/icons/social-linkedin.svg": [
-    "/shark-company-landing/assets/social-linkedin-d419e57e.js"
-  ],
-  "src/assets/icons/arrow-alt-down.svg": [
-    "/shark-company-landing/assets/arrow-alt-down-2ef74b30.js"
-  ],
-  "src/assets/icons/play.svg": [
-    "/shark-company-landing/assets/play-4608f72a.js"
-  ],
-  "src/assets/icons/social-telegram.svg": [
-    "/shark-company-landing/assets/social-telegram-109dd8c2.js"
-  ],
-  "src/assets/icons/social-instagram.svg": [
-    "/shark-company-landing/assets/social-instagram-f2abc402.js"
-  ],
-  "src/assets/icons/social-habr.svg": [
-    "/shark-company-landing/assets/social-habr-4d25e1a0.js"
-  ],
-  "src/assets/img/galaxy.png": [
-    "/shark-company-landing/assets/LandingLogoParallax-300c5c52.js",
-    "/shark-company-landing/assets/galaxy-6a94fab2.png"
-  ],
-  "src/assets/img/shark-screen.svg": [
-    "/shark-company-landing/assets/LandingLogoParallax-300c5c52.js",
-    "/shark-company-landing/assets/galaxy-6a94fab2.png"
-  ],
-  "src/components/Landing/LandingLogoParallax.vue": [
-    "/shark-company-landing/assets/LandingLogoParallax-300c5c52.js",
-    "/shark-company-landing/assets/galaxy-6a94fab2.png"
-  ],
-  "src/assets/icons/social-vk.svg": [
-    "/shark-company-landing/assets/social-vk-82b65be8.js"
-  ],
-  "src/assets/animation/data.json": [
-    "/shark-company-landing/assets/data-20416f23.js"
-  ],
-  "src/pages/dev/icons.vue": [
-    "/shark-company-landing/assets/icons-1887fcfb.js"
-  ],
-  "src/components/App/AppLinkHash.vue": [
-    "/shark-company-landing/assets/AppLinkHash-fc09276a.js"
-  ],
-  "src/layout/PageLoading.vue?vue&type=style&index=0&scoped=4d187a98&lang.css": [
-    "/shark-company-landing/assets/PageLoading-04c2809c.js",
-    "/shark-company-landing/assets/PageLoading-6b29b319.css"
-  ],
-  "src/layout/PageLoading.vue": [
-    "/shark-company-landing/assets/PageLoading-04c2809c.js",
-    "/shark-company-landing/assets/PageLoading-6b29b319.css"
-  ],
   "src/pages/dev.vue?vue&type=style&index=0&scoped=113cf9c4&lang.scss": [
-    "/shark-company-landing/assets/dev-3401b78b.js",
+    "/shark-company-landing/assets/dev-0f913757.js",
     "/shark-company-landing/assets/dev-58f9b1e0.css"
   ],
   "src/pages/dev.vue": [
-    "/shark-company-landing/assets/dev-3401b78b.js",
+    "/shark-company-landing/assets/dev-0f913757.js",
     "/shark-company-landing/assets/dev-58f9b1e0.css"
   ],
+  "src/components/App/AppCoverContainer.vue": [
+    "/shark-company-landing/assets/LandingLoadingAnimation-0184f032.js"
+  ],
+  "src/components/Landing/LandingLoadingAnimation.vue": [
+    "/shark-company-landing/assets/LandingLoadingAnimation-0184f032.js"
+  ],
   "src/components/App/AppLogo.vue": [
-    "/shark-company-landing/assets/LandingNav-ddb85d0b.js",
+    "/shark-company-landing/assets/LandingNav-c901f2ba.js",
     "/shark-company-landing/assets/LandingNav-e5fcc2dd.css"
   ],
   "src/layout/LandingNav.vue?used&vue&type=style&index=0&lang.module.scss": [
-    "/shark-company-landing/assets/LandingNav-ddb85d0b.js",
+    "/shark-company-landing/assets/LandingNav-c901f2ba.js",
     "/shark-company-landing/assets/LandingNav-e5fcc2dd.css"
   ],
   "src/layout/LandingNav.vue": [
-    "/shark-company-landing/assets/LandingNav-ddb85d0b.js",
+    "/shark-company-landing/assets/LandingNav-c901f2ba.js",
     "/shark-company-landing/assets/LandingNav-e5fcc2dd.css"
   ],
-  "src/pages/dev/loading-animation.vue?used&vue&type=style&index=0&lang.module.scss": [
-    "/shark-company-landing/assets/loading-animation-46476c08.js",
-    "/shark-company-landing/assets/loading-animation-c07d4af5.css"
-  ],
-  "src/pages/dev/loading-animation.vue": [
-    "/shark-company-landing/assets/loading-animation-46476c08.js",
-    "/shark-company-landing/assets/loading-animation-c07d4af5.css"
-  ],
-  "src/pages/dev/loading-animation-fullscreen.vue?vue&type=style&index=0&scoped=894dddb8&lang.css": [
-    "/shark-company-landing/assets/loading-animation-fullscreen-006eac22.js",
-    "/shark-company-landing/assets/loading-animation-fullscreen-ae4fa0fd.css"
-  ],
-  "src/pages/dev/loading-animation-fullscreen.vue": [
-    "/shark-company-landing/assets/loading-animation-fullscreen-006eac22.js",
-    "/shark-company-landing/assets/loading-animation-fullscreen-ae4fa0fd.css"
-  ],
-  "src/assets/icons/mail.svg": [
-    "/shark-company-landing/assets/mail-4cee4483.js"
-  ],
-  "src/assets/img/shark-mobile-logo.svg": [
-    "/shark-company-landing/assets/LandingMobileNav-98fcfe4d.js",
-    "/shark-company-landing/assets/LandingMobileNav-9fb24ad8.css"
-  ],
-  "src/layout/helpers/useOverflowPage.js": [
-    "/shark-company-landing/assets/LandingMobileNav-98fcfe4d.js",
-    "/shark-company-landing/assets/LandingMobileNav-9fb24ad8.css"
-  ],
-  "src/layout/LandingMobileNav.vue?vue&type=style&index=0&scoped=d09a76e0&lang.scss": [
-    "/shark-company-landing/assets/LandingMobileNav-98fcfe4d.js",
-    "/shark-company-landing/assets/LandingMobileNav-9fb24ad8.css"
-  ],
-  "src/layout/LandingMobileNav.vue": [
-    "/shark-company-landing/assets/LandingMobileNav-98fcfe4d.js",
-    "/shark-company-landing/assets/LandingMobileNav-9fb24ad8.css"
-  ],
   "src/pages/dev/inputs.vue?vue&type=style&index=0&scoped=58039084&lang.css": [
-    "/shark-company-landing/assets/inputs-4b906321.js",
+    "/shark-company-landing/assets/inputs-29b929b4.js",
     "/shark-company-landing/assets/inputs-5af7619d.css"
   ],
   "src/pages/dev/inputs.vue": [
-    "/shark-company-landing/assets/inputs-4b906321.js",
+    "/shark-company-landing/assets/inputs-29b929b4.js",
     "/shark-company-landing/assets/inputs-5af7619d.css"
+  ],
+  "src/pages/dev/icons.vue": [
+    "/shark-company-landing/assets/icons-1af14ab2.js"
+  ],
+  "src/pages/dev/loading-animation.vue?used&vue&type=style&index=0&lang.module.scss": [
+    "/shark-company-landing/assets/loading-animation-94eb7f8b.js",
+    "/shark-company-landing/assets/loading-animation-c07d4af5.css"
+  ],
+  "src/pages/dev/loading-animation.vue": [
+    "/shark-company-landing/assets/loading-animation-94eb7f8b.js",
+    "/shark-company-landing/assets/loading-animation-c07d4af5.css"
+  ],
+  "src/assets/img/galaxy.png": [
+    "/shark-company-landing/assets/LandingLogoParallax-273b0588.js",
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/assets/img/shark-screen.svg": [
+    "/shark-company-landing/assets/LandingLogoParallax-273b0588.js",
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/components/Landing/LandingLogoParallax.vue": [
+    "/shark-company-landing/assets/LandingLogoParallax-273b0588.js",
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/components/App/AppLinkHash.vue": [
+    "/shark-company-landing/assets/AppLinkHash-0a05219e.js"
+  ],
+  "src/assets/icons/mail.svg": [
+    "/shark-company-landing/assets/mail-d964973b.js"
   ],
   "src/assets/animation/wave.json": [
     "/shark-company-landing/assets/wave-547f0383.js"
   ],
+  "src/layout/PageLoading.vue?vue&type=style&index=0&scoped=4d187a98&lang.css": [
+    "/shark-company-landing/assets/PageLoading-6221aaef.js",
+    "/shark-company-landing/assets/PageLoading-6b29b319.css"
+  ],
+  "src/layout/PageLoading.vue": [
+    "/shark-company-landing/assets/PageLoading-6221aaef.js",
+    "/shark-company-landing/assets/PageLoading-6b29b319.css"
+  ],
+  "src/assets/icons/logo.svg": [
+    "/shark-company-landing/assets/logo-77c413c7.js"
+  ],
+  "src/pages/dev/loading-animation-fullscreen.vue?vue&type=style&index=0&scoped=894dddb8&lang.css": [
+    "/shark-company-landing/assets/loading-animation-fullscreen-5a3c4e25.js",
+    "/shark-company-landing/assets/loading-animation-fullscreen-ae4fa0fd.css"
+  ],
+  "src/pages/dev/loading-animation-fullscreen.vue": [
+    "/shark-company-landing/assets/loading-animation-fullscreen-5a3c4e25.js",
+    "/shark-company-landing/assets/loading-animation-fullscreen-ae4fa0fd.css"
+  ],
+  "src/assets/icons/play.svg": [
+    "/shark-company-landing/assets/play-dd952ad8.js"
+  ],
+  "src/assets/icons/arrow-alt-right.svg": [
+    "/shark-company-landing/assets/arrow-alt-right-12d1fa57.js"
+  ],
+  "src/assets/icons/arrow-alt-down.svg": [
+    "/shark-company-landing/assets/arrow-alt-down-efa0efc1.js"
+  ],
+  "src/assets/icons/arrow-alt-up.svg": [
+    "/shark-company-landing/assets/arrow-alt-up-5cfb6275.js"
+  ],
+  "src/assets/icons/arrow-alt-left.svg": [
+    "/shark-company-landing/assets/arrow-alt-left-11549a92.js"
+  ],
+  "src/assets/icons/social-telegram.svg": [
+    "/shark-company-landing/assets/social-telegram-b5457f64.js"
+  ],
+  "src/assets/icons/social-facebook.svg": [
+    "/shark-company-landing/assets/social-facebook-0c0e0947.js"
+  ],
+  "src/assets/icons/social-instagram.svg": [
+    "/shark-company-landing/assets/social-instagram-cfc87f4e.js"
+  ],
+  "src/assets/icons/social-habr.svg": [
+    "/shark-company-landing/assets/social-habr-72bb5333.js"
+  ],
+  "src/assets/icons/social-vk.svg": [
+    "/shark-company-landing/assets/social-vk-27c6c0cf.js"
+  ],
+  "src/assets/icons/social-linkedin.svg": [
+    "/shark-company-landing/assets/social-linkedin-8335d414.js"
+  ],
+  "src/assets/animation/data.json": [
+    "/shark-company-landing/assets/data-20416f23.js"
+  ],
+  "src/assets/icons/cross.svg": [
+    "/shark-company-landing/assets/cross-23655333.js"
+  ],
+  "src/assets/img/shark-mobile-logo.svg": [
+    "/shark-company-landing/assets/LandingMobileNav-8ea11793.js",
+    "/shark-company-landing/assets/LandingMobileNav-9fb24ad8.css"
+  ],
+  "src/layout/helpers/useOverflowPage.js": [
+    "/shark-company-landing/assets/LandingMobileNav-8ea11793.js",
+    "/shark-company-landing/assets/LandingMobileNav-9fb24ad8.css"
+  ],
+  "src/layout/LandingMobileNav.vue?vue&type=style&index=0&scoped=d09a76e0&lang.scss": [
+    "/shark-company-landing/assets/LandingMobileNav-8ea11793.js",
+    "/shark-company-landing/assets/LandingMobileNav-9fb24ad8.css"
+  ],
+  "src/layout/LandingMobileNav.vue": [
+    "/shark-company-landing/assets/LandingMobileNav-8ea11793.js",
+    "/shark-company-landing/assets/LandingMobileNav-9fb24ad8.css"
+  ],
   "node_modules/@vue/shared/dist/shared.esm-bundler.js": [
-    "/shark-company-landing/assets/vue.runtime.esm-bundler-624fd3e2.js"
+    "/shark-company-landing/assets/vue.runtime.esm-bundler-41ed76e9.js"
   ],
   "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
-    "/shark-company-landing/assets/vue.runtime.esm-bundler-624fd3e2.js"
+    "/shark-company-landing/assets/vue.runtime.esm-bundler-41ed76e9.js"
   ],
   "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
-    "/shark-company-landing/assets/vue.runtime.esm-bundler-624fd3e2.js"
+    "/shark-company-landing/assets/vue.runtime.esm-bundler-41ed76e9.js"
   ],
   "node_modules/vue/dist/vue.runtime.esm-bundler.js": [
-    "/shark-company-landing/assets/vue.runtime.esm-bundler-624fd3e2.js"
+    "/shark-company-landing/assets/vue.runtime.esm-bundler-41ed76e9.js"
   ],
   "\u0000commonjsHelpers.js": [
     "/shark-company-landing/assets/lottie-05218004.js"
