@@ -1,24 +1,61 @@
 {
-  "src/assets/icons/arrow-alt-down.svg": [
-    "/shark-company-landing/assets/arrow-alt-down-efa0efc1.js"
+  "src/layout/PageLoading.vue?vue&type=style&index=0&scoped=4d187a98&lang.css": [
+    "/shark-company-landing/assets/PageLoading-defb0848.js",
+    "/shark-company-landing/assets/PageLoading-6b29b319.css"
   ],
-  "src/assets/icons/arrow-alt-right.svg": [
-    "/shark-company-landing/assets/arrow-alt-right-12d1fa57.js"
+  "src/layout/PageLoading.vue": [
+    "/shark-company-landing/assets/PageLoading-defb0848.js",
+    "/shark-company-landing/assets/PageLoading-6b29b319.css"
   ],
-  "src/assets/icons/social-telegram.svg": [
-    "/shark-company-landing/assets/social-telegram-b5457f64.js"
+  "src/pages/dev.vue?vue&type=style&index=0&scoped=113cf9c4&lang.scss": [
+    "/shark-company-landing/assets/dev-60183911.js",
+    "/shark-company-landing/assets/dev-58f9b1e0.css"
   ],
-  "src/assets/icons/social-instagram.svg": [
-    "/shark-company-landing/assets/social-instagram-cfc87f4e.js"
+  "src/pages/dev.vue": [
+    "/shark-company-landing/assets/dev-60183911.js",
+    "/shark-company-landing/assets/dev-58f9b1e0.css"
   ],
-  "src/assets/icons/social-habr.svg": [
-    "/shark-company-landing/assets/social-habr-72bb5333.js"
+  "src/pages/dev/loading-animation-fullscreen.vue?vue&type=style&index=0&scoped=894dddb8&lang.css": [
+    "/shark-company-landing/assets/loading-animation-fullscreen-229d02d1.js",
+    "/shark-company-landing/assets/loading-animation-fullscreen-ae4fa0fd.css"
   ],
-  "src/assets/icons/social-vk.svg": [
-    "/shark-company-landing/assets/social-vk-27c6c0cf.js"
+  "src/pages/dev/loading-animation-fullscreen.vue": [
+    "/shark-company-landing/assets/loading-animation-fullscreen-229d02d1.js",
+    "/shark-company-landing/assets/loading-animation-fullscreen-ae4fa0fd.css"
   ],
-  "src/assets/icons/social-linkedin.svg": [
-    "/shark-company-landing/assets/social-linkedin-8335d414.js"
+  "src/pages/dev/loading-animation.vue?used&vue&type=style&index=0&lang.module.scss": [
+    "/shark-company-landing/assets/loading-animation-2b23aab3.js",
+    "/shark-company-landing/assets/loading-animation-c07d4af5.css"
+  ],
+  "src/pages/dev/loading-animation.vue": [
+    "/shark-company-landing/assets/loading-animation-2b23aab3.js",
+    "/shark-company-landing/assets/loading-animation-c07d4af5.css"
+  ],
+  "src/pages/dev/inputs.vue?vue&type=style&index=0&scoped=58039084&lang.css": [
+    "/shark-company-landing/assets/inputs-f94f1c5f.js",
+    "/shark-company-landing/assets/inputs-5af7619d.css"
+  ],
+  "src/pages/dev/inputs.vue": [
+    "/shark-company-landing/assets/inputs-f94f1c5f.js",
+    "/shark-company-landing/assets/inputs-5af7619d.css"
+  ],
+  "src/pages/dev/icons.vue": [
+    "/shark-company-landing/assets/icons-e89cdd20.js"
+  ],
+  "src/assets/img/galaxy.png": [
+    "/shark-company-landing/assets/LandingLogoParallax-cabec97a.js",
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/assets/img/shark-screen.svg": [
+    "/shark-company-landing/assets/LandingLogoParallax-cabec97a.js",
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/components/Landing/LandingLogoParallax.vue": [
+    "/shark-company-landing/assets/LandingLogoParallax-cabec97a.js",
+    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  ],
+  "src/components/App/AppLinkHash.vue": [
+    "/shark-company-landing/assets/AppLinkHash-00faa54e.js"
   ],
   "src/assets/icons/mail.svg": [
     "/shark-company-landing/assets/mail-d964973b.js"
@@ -32,79 +69,14 @@
   "src/assets/icons/play.svg": [
     "/shark-company-landing/assets/play-dd952ad8.js"
   ],
-  "src/assets/animation/data.json": [
-    "/shark-company-landing/assets/data-20416f23.js"
-  ],
   "src/assets/icons/social-facebook.svg": [
     "/shark-company-landing/assets/social-facebook-0c0e0947.js"
   ],
-  "src/assets/img/galaxy.png": [
-    "/shark-company-landing/assets/LandingLogoParallax-9233b5fa.js",
-    "/shark-company-landing/assets/galaxy-6a94fab2.png"
+  "src/assets/icons/arrow-alt-right.svg": [
+    "/shark-company-landing/assets/arrow-alt-right-12d1fa57.js"
   ],
-  "src/assets/img/shark-screen.svg": [
-    "/shark-company-landing/assets/LandingLogoParallax-9233b5fa.js",
-    "/shark-company-landing/assets/galaxy-6a94fab2.png"
-  ],
-  "src/components/Landing/LandingLogoParallax.vue": [
-    "/shark-company-landing/assets/LandingLogoParallax-9233b5fa.js",
-    "/shark-company-landing/assets/galaxy-6a94fab2.png"
-  ],
-  "src/components/App/AppLinkHash.vue": [
-    "/shark-company-landing/assets/AppLinkHash-dd6a900d.js"
-  ],
-  "src/layout/PageLoading.vue?vue&type=style&index=0&scoped=4d187a98&lang.css": [
-    "/shark-company-landing/assets/PageLoading-c617f26e.js",
-    "/shark-company-landing/assets/PageLoading-6b29b319.css"
-  ],
-  "src/layout/PageLoading.vue": [
-    "/shark-company-landing/assets/PageLoading-c617f26e.js",
-    "/shark-company-landing/assets/PageLoading-6b29b319.css"
-  ],
-  "src/pages/dev.vue?vue&type=style&index=0&scoped=113cf9c4&lang.scss": [
-    "/shark-company-landing/assets/dev-955f25c3.js",
-    "/shark-company-landing/assets/dev-58f9b1e0.css"
-  ],
-  "src/pages/dev.vue": [
-    "/shark-company-landing/assets/dev-955f25c3.js",
-    "/shark-company-landing/assets/dev-58f9b1e0.css"
-  ],
-  "src/components/App/AppCoverContainer.vue": [
-    "/shark-company-landing/assets/LandingLoadingAnimation-a6b6ed2b.js"
-  ],
-  "src/components/Landing/LandingLoadingAnimation.vue": [
-    "/shark-company-landing/assets/LandingLoadingAnimation-a6b6ed2b.js"
-  ],
-  "src/pages/dev/inputs.vue?vue&type=style&index=0&scoped=58039084&lang.css": [
-    "/shark-company-landing/assets/inputs-8048e96b.js",
-    "/shark-company-landing/assets/inputs-5af7619d.css"
-  ],
-  "src/pages/dev/inputs.vue": [
-    "/shark-company-landing/assets/inputs-8048e96b.js",
-    "/shark-company-landing/assets/inputs-5af7619d.css"
-  ],
-  "src/pages/dev/loading-animation.vue?used&vue&type=style&index=0&lang.module.scss": [
-    "/shark-company-landing/assets/loading-animation-9ff1b530.js",
-    "/shark-company-landing/assets/loading-animation-c07d4af5.css"
-  ],
-  "src/pages/dev/loading-animation.vue": [
-    "/shark-company-landing/assets/loading-animation-9ff1b530.js",
-    "/shark-company-landing/assets/loading-animation-c07d4af5.css"
-  ],
-  "src/components/App/AppLogo.vue": [
-    "/shark-company-landing/assets/LandingNav-f6721470.js",
-    "/shark-company-landing/assets/LandingNav-e5fcc2dd.css"
-  ],
-  "src/layout/LandingNav.vue?used&vue&type=style&index=0&lang.module.scss": [
-    "/shark-company-landing/assets/LandingNav-f6721470.js",
-    "/shark-company-landing/assets/LandingNav-e5fcc2dd.css"
-  ],
-  "src/layout/LandingNav.vue": [
-    "/shark-company-landing/assets/LandingNav-f6721470.js",
-    "/shark-company-landing/assets/LandingNav-e5fcc2dd.css"
-  ],
-  "src/pages/dev/icons.vue": [
-    "/shark-company-landing/assets/icons-f6e01166.js"
+  "src/assets/icons/arrow-alt-down.svg": [
+    "/shark-company-landing/assets/arrow-alt-down-efa0efc1.js"
   ],
   "src/assets/icons/arrow-alt-up.svg": [
     "/shark-company-landing/assets/arrow-alt-up-5cfb6275.js"
@@ -112,29 +84,57 @@
   "src/assets/icons/arrow-alt-left.svg": [
     "/shark-company-landing/assets/arrow-alt-left-11549a92.js"
   ],
+  "src/assets/icons/social-telegram.svg": [
+    "/shark-company-landing/assets/social-telegram-b5457f64.js"
+  ],
+  "src/assets/icons/social-vk.svg": [
+    "/shark-company-landing/assets/social-vk-27c6c0cf.js"
+  ],
+  "src/assets/icons/social-instagram.svg": [
+    "/shark-company-landing/assets/social-instagram-cfc87f4e.js"
+  ],
+  "src/assets/icons/social-habr.svg": [
+    "/shark-company-landing/assets/social-habr-72bb5333.js"
+  ],
+  "src/assets/icons/social-linkedin.svg": [
+    "/shark-company-landing/assets/social-linkedin-8335d414.js"
+  ],
   "src/assets/img/shark-mobile-logo.svg": [
-    "/shark-company-landing/assets/LandingMobileNav-5921838f.js",
+    "/shark-company-landing/assets/LandingMobileNav-0aa4eb6d.js",
     "/shark-company-landing/assets/LandingMobileNav-9fb24ad8.css"
   ],
   "src/layout/helpers/useOverflowPage.js": [
-    "/shark-company-landing/assets/LandingMobileNav-5921838f.js",
+    "/shark-company-landing/assets/LandingMobileNav-0aa4eb6d.js",
     "/shark-company-landing/assets/LandingMobileNav-9fb24ad8.css"
   ],
   "src/layout/LandingMobileNav.vue?vue&type=style&index=0&scoped=d09a76e0&lang.scss": [
-    "/shark-company-landing/assets/LandingMobileNav-5921838f.js",
+    "/shark-company-landing/assets/LandingMobileNav-0aa4eb6d.js",
     "/shark-company-landing/assets/LandingMobileNav-9fb24ad8.css"
   ],
   "src/layout/LandingMobileNav.vue": [
-    "/shark-company-landing/assets/LandingMobileNav-5921838f.js",
+    "/shark-company-landing/assets/LandingMobileNav-0aa4eb6d.js",
     "/shark-company-landing/assets/LandingMobileNav-9fb24ad8.css"
   ],
-  "src/pages/dev/loading-animation-fullscreen.vue?vue&type=style&index=0&scoped=894dddb8&lang.css": [
-    "/shark-company-landing/assets/loading-animation-fullscreen-5ef0eba3.js",
-    "/shark-company-landing/assets/loading-animation-fullscreen-ae4fa0fd.css"
+  "src/components/App/AppCoverContainer.vue": [
+    "/shark-company-landing/assets/LandingLoadingAnimation-baa10a8d.js"
   ],
-  "src/pages/dev/loading-animation-fullscreen.vue": [
-    "/shark-company-landing/assets/loading-animation-fullscreen-5ef0eba3.js",
-    "/shark-company-landing/assets/loading-animation-fullscreen-ae4fa0fd.css"
+  "src/components/Landing/LandingLoadingAnimation.vue": [
+    "/shark-company-landing/assets/LandingLoadingAnimation-baa10a8d.js"
+  ],
+  "src/assets/animation/data.json": [
+    "/shark-company-landing/assets/data-20416f23.js"
+  ],
+  "src/components/App/AppLogo.vue": [
+    "/shark-company-landing/assets/LandingNav-8e2d7d14.js",
+    "/shark-company-landing/assets/LandingNav-e5fcc2dd.css"
+  ],
+  "src/layout/LandingNav.vue?used&vue&type=style&index=0&lang.module.scss": [
+    "/shark-company-landing/assets/LandingNav-8e2d7d14.js",
+    "/shark-company-landing/assets/LandingNav-e5fcc2dd.css"
+  ],
+  "src/layout/LandingNav.vue": [
+    "/shark-company-landing/assets/LandingNav-8e2d7d14.js",
+    "/shark-company-landing/assets/LandingNav-e5fcc2dd.css"
   ],
   "src/assets/animation/wave.json": [
     "/shark-company-landing/assets/wave-547f0383.js"
@@ -161,9 +161,9 @@
     "/shark-company-landing/assets/lottie-05218004.js"
   ],
   "\u0000vite/modulepreload-polyfill": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -180,9 +180,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "\u0000vite/preload-helper": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -199,9 +199,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -218,9 +218,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "\u0000plugin-vue:export-helper": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -237,9 +237,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/App.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -256,9 +256,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/assets/style/tailwind.scss": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -275,9 +275,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/@vue/devtools-api/lib/esm/env.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -294,9 +294,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/@vue/devtools-api/lib/esm/const.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -313,9 +313,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/@vue/devtools-api/lib/esm/time.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -332,9 +332,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/@vue/devtools-api/lib/esm/proxy.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -351,9 +351,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/@vue/devtools-api/lib/esm/index.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -370,9 +370,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/vue-router/dist/vue-router.mjs": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -389,9 +389,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/hookable/dist/index.mjs": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -408,9 +408,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/@unhead/shared/dist/index.mjs": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -427,9 +427,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/@unhead/dom/dist/index.mjs": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -446,9 +446,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/unhead/dist/index.mjs": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -465,9 +465,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/@unhead/vue/dist/shared/vue.3c82dacb.mjs": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -484,9 +484,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/@unhead/vue/dist/index.mjs": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -503,9 +503,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/@vueuse/head/dist/index.mjs": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -522,9 +522,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/vite-ssg/dist/shared/vite-ssg.a009fbf1.mjs": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -541,9 +541,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/vite-ssg/dist/shared/vite-ssg.5912142e.mjs": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -560,9 +560,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/vite-ssg/dist/index.mjs": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -579,9 +579,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/App/AppTypo.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -598,9 +598,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/Landing/LandingSlide.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -617,9 +617,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/gsap/gsap-core.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -636,9 +636,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/gsap/CSSPlugin.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -655,9 +655,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/gsap/index.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -674,9 +674,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/App/AppAnimatedInteger.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -693,9 +693,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/helpers/observer/useObserver.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -712,9 +712,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/helpers/observer/useIntersectionObserver.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -731,9 +731,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/Landing/LandingAboutUsWrapper.vue?used&vue&type=style&index=0&lang.module.css": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -750,9 +750,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/Landing/LandingAboutUsWrapper.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -769,9 +769,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/lodash-es/_freeGlobal.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -788,9 +788,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/lodash-es/_root.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -807,9 +807,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/lodash-es/_Symbol.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -826,9 +826,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/lodash-es/_getRawTag.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -845,9 +845,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/lodash-es/_objectToString.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -864,9 +864,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/lodash-es/_baseGetTag.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -883,9 +883,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/lodash-es/isObjectLike.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -902,9 +902,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/lodash-es/isSymbol.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -921,9 +921,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/lodash-es/_trimmedEndIndex.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -940,9 +940,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/lodash-es/_baseTrim.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -959,9 +959,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/lodash-es/isObject.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -978,9 +978,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/lodash-es/toNumber.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -997,9 +997,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/lodash-es/now.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1016,9 +1016,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/lodash-es/debounce.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1035,9 +1035,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/lodash-es/throttle.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1054,9 +1054,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/App/AppButton.vue?used&vue&type=style&index=0&lang.module.scss": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1073,9 +1073,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/App/AppButton.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1092,9 +1092,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/helpers/useUpdatableValue.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1111,9 +1111,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/helpers/validation/validators.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1130,9 +1130,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/helpers/validation/useValidate.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1149,9 +1149,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/App/Inputs/AppTabs.vue?used&vue&type=style&index=0&lang.module.sass": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1168,9 +1168,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/App/Inputs/AppTabs.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1187,9 +1187,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/App/AppIcon.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1206,9 +1206,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/App/Inputs/AppInputContainer.vue?vue&type=style&index=0&scoped=f2c417a6&lang.sass": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1225,9 +1225,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/App/Inputs/AppInputContainer.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1244,9 +1244,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/App/Inputs/AppTextArea.vue?used&vue&type=style&index=0&lang.module.scss": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1263,9 +1263,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/App/Inputs/AppTextArea.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1282,9 +1282,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/App/AppIconedButton.vue?used&vue&type=style&index=0&lang.module.scss": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1301,9 +1301,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/App/AppIconedButton.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1320,9 +1320,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/config/icons.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1339,9 +1339,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/App/Inputs/AppTextField.vue?used&vue&type=style&index=0&lang.module.scss": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1358,9 +1358,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/App/Inputs/AppTextField.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1377,9 +1377,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/helpers/useDisplaySize.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1396,9 +1396,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/helpers/validation/useFormActions.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1415,9 +1415,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/Landing/LandingContactsForm.vue?used&vue&type=style&index=0&lang.module.css": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1434,9 +1434,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/Landing/LandingContactsForm.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1453,9 +1453,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/helpers/observer/useResizeObserver.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1472,9 +1472,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/Landing/LandingContactsLinks.vue?used&vue&type=style&index=0&lang.module.sass": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1491,9 +1491,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/Landing/LandingContactsLinks.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1510,9 +1510,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/Landing/LandingContacts.vue?used&vue&type=style&index=0&lang.module.sass": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1529,9 +1529,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/Landing/LandingContacts.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1548,9 +1548,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/App/AppButtonGradient.vue?used&vue&type=style&index=0&lang.module.sass": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1567,9 +1567,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/App/AppButtonGradient.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1586,9 +1586,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/Landing/LandingLearnMoreButton.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1605,9 +1605,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/Landing/LandingSectionContainer.vue?vue&type=style&index=0&scoped=2f60d58e&lang.css": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1624,9 +1624,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/Landing/LandingSectionContainer.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1642,10 +1642,10 @@
     "/shark-company-landing/assets/landing-35dec506.mp4",
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
-  "src/components/App/AppList.vue?vue&type=style&index=0&scoped=a9d95587&lang.css": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+  "src/components/Landing/LandingServiceMobileCard.vue?vue&type=style&index=0&scoped=771f6b05&lang.css": [
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1661,67 +1661,10 @@
     "/shark-company-landing/assets/landing-35dec506.mp4",
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
-  "src/components/App/AppList.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+  "src/components/Landing/LandingServiceMobileCard.vue": [
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/lifefeel-50adb139.png",
-    "/shark-company-landing/assets/protei-19590c88.png",
-    "/shark-company-landing/assets/sitronics-4e9d32a9.png",
-    "/shark-company-landing/assets/transportbashkortostana-304cdfff.png",
-    "/shark-company-landing/assets/yarmarkionline-cca1ae9b.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4",
-    "/shark-company-landing/assets/about-us-background-ba60d95b.png"
-  ],
-  "src/assets/img/services-expand-2.png": [
     "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/lifefeel-50adb139.png",
-    "/shark-company-landing/assets/protei-19590c88.png",
-    "/shark-company-landing/assets/sitronics-4e9d32a9.png",
-    "/shark-company-landing/assets/transportbashkortostana-304cdfff.png",
-    "/shark-company-landing/assets/yarmarkionline-cca1ae9b.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4",
-    "/shark-company-landing/assets/about-us-background-ba60d95b.png"
-  ],
-  "src/components/Landing/LandingServiceCard.vue?vue&type=style&index=0&scoped=af03913b&lang.css": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
-    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
-    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
-    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
-    "/shark-company-landing/assets/cases-3-308c4883.jpg",
-    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
-    "/shark-company-landing/assets/cases-5-845502b0.jpg",
-    "/shark-company-landing/assets/study-card-background-44ded25d.png",
-    "/shark-company-landing/assets/lifefeel-50adb139.png",
-    "/shark-company-landing/assets/protei-19590c88.png",
-    "/shark-company-landing/assets/sitronics-4e9d32a9.png",
-    "/shark-company-landing/assets/transportbashkortostana-304cdfff.png",
-    "/shark-company-landing/assets/yarmarkionline-cca1ae9b.png",
-    "/shark-company-landing/assets/landing-35dec506.mp4",
-    "/shark-company-landing/assets/about-us-background-ba60d95b.png"
-  ],
-  "src/components/Landing/LandingServiceCard.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
-    "/shark-company-landing/assets/services-1-ead25e08.png",
-    "/shark-company-landing/assets/services-2-2658dbf6.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1738,9 +1681,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/assets/img/services-1.png": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1757,9 +1700,142 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/assets/img/services-2.png": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/lifefeel-50adb139.png",
+    "/shark-company-landing/assets/protei-19590c88.png",
+    "/shark-company-landing/assets/sitronics-4e9d32a9.png",
+    "/shark-company-landing/assets/transportbashkortostana-304cdfff.png",
+    "/shark-company-landing/assets/yarmarkionline-cca1ae9b.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-ba60d95b.png"
+  ],
+  "src/components/Landing/LandingServiceCardMobileWrapper.vue?used&vue&type=style&index=0&lang.module.css": [
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/lifefeel-50adb139.png",
+    "/shark-company-landing/assets/protei-19590c88.png",
+    "/shark-company-landing/assets/sitronics-4e9d32a9.png",
+    "/shark-company-landing/assets/transportbashkortostana-304cdfff.png",
+    "/shark-company-landing/assets/yarmarkionline-cca1ae9b.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-ba60d95b.png"
+  ],
+  "src/components/Landing/LandingServiceCardMobileWrapper.vue": [
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/lifefeel-50adb139.png",
+    "/shark-company-landing/assets/protei-19590c88.png",
+    "/shark-company-landing/assets/sitronics-4e9d32a9.png",
+    "/shark-company-landing/assets/transportbashkortostana-304cdfff.png",
+    "/shark-company-landing/assets/yarmarkionline-cca1ae9b.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-ba60d95b.png"
+  ],
+  "src/components/App/AppList.vue?vue&type=style&index=0&scoped=a9d95587&lang.css": [
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/lifefeel-50adb139.png",
+    "/shark-company-landing/assets/protei-19590c88.png",
+    "/shark-company-landing/assets/sitronics-4e9d32a9.png",
+    "/shark-company-landing/assets/transportbashkortostana-304cdfff.png",
+    "/shark-company-landing/assets/yarmarkionline-cca1ae9b.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-ba60d95b.png"
+  ],
+  "src/components/App/AppList.vue": [
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/lifefeel-50adb139.png",
+    "/shark-company-landing/assets/protei-19590c88.png",
+    "/shark-company-landing/assets/sitronics-4e9d32a9.png",
+    "/shark-company-landing/assets/transportbashkortostana-304cdfff.png",
+    "/shark-company-landing/assets/yarmarkionline-cca1ae9b.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-ba60d95b.png"
+  ],
+  "src/assets/img/services-expand-2.png": [
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/lifefeel-50adb139.png",
+    "/shark-company-landing/assets/protei-19590c88.png",
+    "/shark-company-landing/assets/sitronics-4e9d32a9.png",
+    "/shark-company-landing/assets/transportbashkortostana-304cdfff.png",
+    "/shark-company-landing/assets/yarmarkionline-cca1ae9b.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-ba60d95b.png"
+  ],
+  "src/components/Landing/LandingServiceCard.vue?vue&type=style&index=0&scoped=af03913b&lang.css": [
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
+    "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
+    "/shark-company-landing/assets/cases-1-9e44a969.jpg",
+    "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
+    "/shark-company-landing/assets/cases-3-308c4883.jpg",
+    "/shark-company-landing/assets/cases-4-f3b650f5.jpg",
+    "/shark-company-landing/assets/cases-5-845502b0.jpg",
+    "/shark-company-landing/assets/study-card-background-44ded25d.png",
+    "/shark-company-landing/assets/lifefeel-50adb139.png",
+    "/shark-company-landing/assets/protei-19590c88.png",
+    "/shark-company-landing/assets/sitronics-4e9d32a9.png",
+    "/shark-company-landing/assets/transportbashkortostana-304cdfff.png",
+    "/shark-company-landing/assets/yarmarkionline-cca1ae9b.png",
+    "/shark-company-landing/assets/landing-35dec506.mp4",
+    "/shark-company-landing/assets/about-us-background-ba60d95b.png"
+  ],
+  "src/components/Landing/LandingServiceCard.vue": [
+    "/shark-company-landing/assets/services-1-ead25e08.png",
+    "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1776,9 +1852,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/assets/img/services-expand-1.png": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1795,9 +1871,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/Landing/LandingServiceCardWrapper.vue?used&vue&type=style&index=0&lang.module.css": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1814,9 +1890,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/Landing/LandingServiceCardWrapper.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1833,9 +1909,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/ssr-window/ssr-window.esm.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1852,9 +1928,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/shared/utils.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1871,9 +1947,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/shared/get-support.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1890,9 +1966,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/shared/get-device.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1909,9 +1985,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/shared/get-browser.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1928,9 +2004,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/modules/resize/resize.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1947,9 +2023,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/modules/observer/observer.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1966,9 +2042,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/events-emitter.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -1985,9 +2061,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/update/updateSize.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2004,9 +2080,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/update/updateSlides.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2023,9 +2099,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/update/updateAutoHeight.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2042,9 +2118,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/update/updateSlidesOffset.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2061,9 +2137,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/update/updateSlidesProgress.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2080,9 +2156,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/update/updateProgress.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2099,9 +2175,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/update/updateSlidesClasses.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2118,9 +2194,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/shared/process-lazy-preloader.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2137,9 +2213,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/update/updateActiveIndex.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2156,9 +2232,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/update/updateClickedSlide.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2175,9 +2251,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/update/index.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2194,9 +2270,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/translate/getTranslate.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2213,9 +2289,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/translate/setTranslate.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2232,9 +2308,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/translate/minTranslate.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2251,9 +2327,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/translate/maxTranslate.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2270,9 +2346,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/translate/translateTo.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2289,9 +2365,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/translate/index.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2308,9 +2384,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/transition/setTransition.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2327,9 +2403,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/transition/transitionEmit.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2346,9 +2422,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/transition/transitionStart.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2365,9 +2441,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/transition/transitionEnd.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2384,9 +2460,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/transition/index.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2403,9 +2479,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/slide/slideTo.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2422,9 +2498,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/slide/slideToLoop.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2441,9 +2517,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/slide/slideNext.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2460,9 +2536,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/slide/slidePrev.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2479,9 +2555,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/slide/slideReset.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2498,9 +2574,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/slide/slideToClosest.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2517,9 +2593,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/slide/slideToClickedSlide.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2536,9 +2612,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/slide/index.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2555,9 +2631,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/loop/loopCreate.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2574,9 +2650,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/loop/loopFix.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2593,9 +2669,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/loop/loopDestroy.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2612,9 +2688,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/loop/index.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2631,9 +2707,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/grab-cursor/setGrabCursor.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2650,9 +2726,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/grab-cursor/unsetGrabCursor.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2669,9 +2745,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/grab-cursor/index.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2688,9 +2764,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/events/onTouchStart.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2707,9 +2783,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/events/onTouchMove.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2726,9 +2802,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/events/onTouchEnd.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2745,9 +2821,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/events/onResize.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2764,9 +2840,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/events/onClick.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2783,9 +2859,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/events/onScroll.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2802,9 +2878,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/events/onLoad.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2821,9 +2897,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/events/index.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2840,9 +2916,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/breakpoints/setBreakpoint.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2859,9 +2935,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/breakpoints/getBreakpoint.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2878,9 +2954,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/breakpoints/index.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2897,9 +2973,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/classes/addClasses.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2916,9 +2992,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/classes/removeClasses.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2935,9 +3011,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/classes/index.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2954,9 +3030,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/check-overflow/index.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2973,9 +3049,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/defaults.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -2992,9 +3068,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/moduleExtendParams.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3011,9 +3087,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/core/core.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3030,9 +3106,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/shared/create-element-if-not-defined.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3049,9 +3125,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/modules/navigation/navigation.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3068,9 +3144,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/shared/classes-to-selector.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3087,9 +3163,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/modules/pagination/pagination.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3106,9 +3182,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/swiper.min.css": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3125,9 +3201,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/components-shared/utils.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3144,9 +3220,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/components-shared/params-list.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3163,9 +3239,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/components-shared/get-params.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3182,9 +3258,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/components-shared/mount-swiper.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3201,9 +3277,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/components-shared/get-changed-params.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3220,9 +3296,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/vue/get-children.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3239,9 +3315,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/components-shared/update-swiper.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3258,9 +3334,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/vue/virtual.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3277,9 +3353,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/components-shared/update-on-virtual-data.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3296,9 +3372,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/vue/swiper.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3315,9 +3391,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "node_modules/swiper/vue/swiper-slide.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3334,9 +3410,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/Landing/LandingStudyMobileCard.vue?vue&type=style&index=0&scoped=0f7544d3&lang.css": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3353,9 +3429,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/Landing/LandingStudyMobileCard.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3372,9 +3448,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/assets/img/cases-1.jpg": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3391,9 +3467,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/assets/img/cases-2.jpg": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3410,9 +3486,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/assets/img/cases-3.jpg": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3429,9 +3505,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/assets/img/cases-4.jpg": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3448,9 +3524,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/assets/img/cases-5.jpg": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3467,9 +3543,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/assets/img/study-card-background.png": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3486,9 +3562,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/Landing/LandingStudyCardMobileWrapper.vue?vue&type=style&index=0&scoped=22e8e193&lang.css": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3505,9 +3581,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/Landing/LandingStudyCardMobileWrapper.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3524,9 +3600,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/App/AppHorizontalScrollContainer.vue?used&vue&type=style&index=0&lang.module.sass": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3543,9 +3619,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/App/AppHorizontalScrollContainer.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3562,9 +3638,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/Landing/LandingStudyCard.vue?vue&type=style&index=0&scoped=606c65da&lang.css": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3581,9 +3657,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/Landing/LandingStudyCard.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3600,9 +3676,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/Landing/LandingStudyCardWrapper.vue?vue&type=style&index=0&scoped=985e49eb&lang.css": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3619,9 +3695,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/Landing/LandingStudyCardWrapper.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3638,9 +3714,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/Landing/LandingTechnologyCard.vue?vue&type=style&index=0&scoped=5245abda&lang.css": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3657,9 +3733,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/Landing/LandingTechnologyCard.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3676,9 +3752,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/assets/icons/technologies/android.svg": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3695,9 +3771,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/assets/icons/technologies/fastapi.svg": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3714,9 +3790,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/assets/icons/technologies/flutter.svg": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3733,9 +3809,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/assets/icons/technologies/ios.svg": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3752,9 +3828,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/assets/icons/technologies/java.svg": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3771,9 +3847,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/assets/icons/technologies/nextjs.svg": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3790,9 +3866,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/assets/icons/technologies/nuxt.svg": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3809,9 +3885,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/assets/icons/technologies/python.svg": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3828,9 +3904,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/assets/icons/technologies/react.svg": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3847,9 +3923,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/assets/icons/technologies/spring.svg": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3866,9 +3942,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/assets/icons/technologies/vue.svg": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3885,9 +3961,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/assets/icons/technologies/wearos.svg": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3904,9 +3980,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/Landing/LandingTechnologiesWrapper.vue?vue&type=style&index=0&scoped=ddfa7e3f&lang.css": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3923,9 +3999,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/Landing/LandingTechnologiesWrapper.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3942,9 +4018,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/Landing/LandingTrustedByCard.vue?vue&type=style&index=0&scoped=1f120b7c&lang.css": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3961,9 +4037,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/Landing/LandingTrustedByCard.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3980,9 +4056,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/assets/img/companies/lifefeel.png": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -3999,9 +4075,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/assets/img/companies/mgovog.png": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -4018,9 +4094,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/assets/img/companies/protei.png": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -4037,9 +4113,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/assets/img/companies/sitronics.png": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -4056,9 +4132,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/assets/img/companies/transportbashkortostana.png": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -4075,9 +4151,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/assets/img/companies/yarmarkionline.png": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -4094,9 +4170,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/Landing/LandingTrustedByWrapper.vue?vue&type=style&index=0&scoped=383bceaf&lang.css": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -4113,9 +4189,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/Landing/LandingTrustedByWrapper.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -4132,9 +4208,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/assets/video/landing.mp4": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -4151,9 +4227,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/Landing/LandingVideo.vue?used&vue&type=style&index=0&lang.module.scss": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -4170,9 +4246,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/Landing/LandingVideo.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -4189,9 +4265,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/assets/img/about-us-background.png": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -4208,9 +4284,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/helpers/useLoadingState.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -4227,9 +4303,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/layout/helpers/useActiveBackground.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -4246,9 +4322,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/components/App/AppIntersection.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -4265,9 +4341,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/layout/BackgroundSection.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -4284,9 +4360,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/layout/LandingFooter.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -4303,9 +4379,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/layout/LandingLayout.vue?used&vue&type=style&index=0&lang.module.scss": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -4322,9 +4398,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/layout/LandingLayout.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -4341,9 +4417,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/pages/index.vue?used&vue&type=style&index=0&lang.module.scss": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -4360,9 +4436,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/pages/index.vue": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -4379,9 +4455,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "../../../../../@vite-plugin-pages/generated-pages?id=~pages": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -4398,9 +4474,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "src/main.js": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
@@ -4417,9 +4493,9 @@
     "/shark-company-landing/assets/about-us-background-ba60d95b.png"
   ],
   "index.html": [
-    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-1-ead25e08.png",
     "/shark-company-landing/assets/services-2-2658dbf6.png",
+    "/shark-company-landing/assets/services-expand-2-922d47b8.png",
     "/shark-company-landing/assets/services-expand-1-2cfd7368.png",
     "/shark-company-landing/assets/cases-1-9e44a969.jpg",
     "/shark-company-landing/assets/cases-2-0e3a5dc8.jpg",
